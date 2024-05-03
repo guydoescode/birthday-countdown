@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Brockmann';
+  src: url('./brockmann/brockmann-medium-webfont.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Brockmann', sans-serif !important; 
+}
